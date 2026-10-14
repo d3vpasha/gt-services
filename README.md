@@ -3,7 +3,7 @@
 Site vitrine de GT Services, l'entreprise de ramonage, petits travaux et motoculture de Gaël Tijou à Clessé (Deux-Sèvres).
 HTML, CSS et JS natifs : aucune étape de build, aucune dépendance.
 
-Production : https://gt-services.vercel.app
+Production : https://gt-services-one.vercel.app
 
 ## Arborescence
 
