@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 64" role="img" aria-label="GT Services">
+  <path d="M32 2 L58 10 V30 C58 46 46 56 32 62 C18 56 6 46 6 30 V10 Z" fill="#7a1f2b" stroke="#7a1f2b" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M14 22 H50" fill="none" stroke="#e8b4bb" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 3"/>
+  <g fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round" transform="translate(17.5 27) scale(1.05)">
+    <path transform="translate(0 0)" d="M11 4 C9.6 1.4 8 0 6 0 C2.5 0 0 4.5 0 10 C0 15.5 2.5 20 6 20 C9.5 20 12 16.5 12 11 H7"/>
+    <path transform="translate(17 0)" d="M0 0 H12 M6 0 V20"/>
+  </g>
+  <g transform="translate(78 14) scale(1.05)" fill="none" stroke="#2b2b2e" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round">
+    <path transform="translate(0 0)" d="M11 3 C10 1 8.3 0 6 0 C3 0 1 1.8 1 4.8 C1 11 11.5 8.5 11.5 15 C11.5 18 9.3 20 6 20 C3.4 20 1.5 18.8 0.5 16.5"/>
+    <path transform="translate(16.5 0)" d="M10 0 H0 V20 H10 M0 10 H8"/>
+    <path transform="translate(31 0)" d="M0 20 V0 H6 A5 5 0 0 1 6 10 H0 M5.5 10 L11 20"/>
+    <path transform="translate(46.5 0)" d="M0 0 L6 20 L12 0"/>
+    <path transform="translate(63 0)" d="M0 0 V20"/>
+    <path transform="translate(67.5 0)" d="M11 3.5 C9.6 1.2 8 0 6 0 C2.5 0 0 4.5 0 10 C0 15.5 2.5 20 6 20 C8 20 9.6 18.8 11 16.5"/>
+    <path transform="translate(83 0)" d="M10 0 H0 V20 H10 M0 10 H8"/>
+    <path transform="translate(97.5 0)" d="M11 3 C10 1 8.3 0 6 0 C3 0 1 1.8 1 4.8 C1 11 11.5 8.5 11.5 15 C11.5 18 9.3 20 6 20 C3.4 20 1.5 18.8 0.5 16.5"/>
+  </g>
+  <path d="M78 46 H193" stroke="#7a1f2b" stroke-width="3" stroke-linecap="round"/>
+</svg>
